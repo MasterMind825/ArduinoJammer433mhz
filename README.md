@@ -4,24 +4,6 @@ This repository provides a practical guide and working example for interfacing t
 
 ⚠️ Educational Use Only: This project is for learning about wireless communication and interference. Use responsibly and in accordance with local laws.
 
-# 🔧 Introduction cc1101
-
-The CC1101 is a low-cost transceiver module operating in the sub-1 GHz spectrum. In this example, we configure the CC1101 to:
-
-Transmit continuously at 433 MHz
-Sweep nearby frequencies by hopping in small increments
-Output at maximum power
-This disrupts basic 433 MHz signals by saturating the airwaves, making communication difficult for nearby devices.
-
-# 📡 Hardware Used
-
-Arduino Nano or Arduino UNO
-
-CC1101 module (433 MHz version)
-
-Jumper wires
-
-Optional: 10µF capacitor between VCC and GND
 
 # 🔌 Wiring Diagram
 
@@ -41,8 +23,8 @@ Optional: 10µF capacitor between VCC and GND
 ### 🧰 Hardware Requirements
 - Arduino UNO or Nano (or any compatible board)
 - **CC1101 433 MHz transceiver module**
-- Breadboard and jumper wires
-- Capacitor (10 µF) to stabilize power (optional but recommended)
+- jumper wires
+- Capacitor (10 µF) to stabilize power (optional)
 
 ---
 
