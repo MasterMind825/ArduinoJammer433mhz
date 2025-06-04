@@ -44,4 +44,5 @@ Wiring Visual:
    - Open the **Arduino IDE**
    - Go to **Sketch > Include Library > Manage Libraries...**
    - Search for `"ELECHOUSE_CC1101"` and install **`ELECHOUSE_CC1101_SRC_DRV`** by ELECHOUSE
-
+   - paste the script in verify and upload the script to your Arduino nano
+   - if there is a problem with the uploading, klick on **Tools > Processor > ATmega328P (Old Bootloader)** 
