@@ -17,9 +17,8 @@ This repository provides a practical guide and working example for interfacing t
 | GDO2       | D12                    |
 
 
-[
-](https://raw.githubusercontent.com/MasterMind825/ArduinoJammer433mhz/main/Screenshot%202025-06-04%20at%2016.13.09.png
-)
+
+![Wiring Diagram](https://raw.githubusercontent.com/MasterMind825/ArduinoJammer433mhz/main/Screenshot%202025-06-04%20at%2016.13.09.png)
 
 
 ## 🚀 Getting Started
