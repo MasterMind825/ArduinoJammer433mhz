@@ -4,7 +4,7 @@ This repository provides a practical guide and working example for interfacing t
 
 ⚠️ Educational Use Only: This project is for learning about wireless communication and interference. Use responsibly and in accordance with local laws.
 
-# 🔧 cc1101 
+# 🔧 Introduction cc1101
 
 The CC1101 is a low-cost transceiver module operating in the sub-1 GHz spectrum. In this example, we configure the CC1101 to:
 
