@@ -27,9 +27,7 @@ Optional: 10µF capacitor between VCC and GND
 | VCC        | 3.3V                   |
 | GND        | GND                    |
 | MOSI       | D11                    |
-| MISO       | D12                    |
 | SCK        | D13                    |
 | CSN (SS)   | D10                    |
-
-
+| GDO2       | D12                    |
 
