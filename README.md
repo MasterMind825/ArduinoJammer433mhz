@@ -16,8 +16,11 @@ This disrupts basic 433 MHz signals by saturating the airwaves, making communica
 # 📡 Hardware Used
 
 Arduino Nano or Arduino UNO
+
 CC1101 module (433 MHz version)
+
 Jumper wires
+
 Optional: 10µF capacitor between VCC and GND
 
 # 🔌 Wiring Diagram
