@@ -16,7 +16,7 @@ This repository provides a practical guide and working example for interfacing t
 | CSN (SS)   | D10                    |
 | GDO2       | D12                    |
 
-
+Wiring Visual:
 
 ![Wiring Diagram](https://raw.githubusercontent.com/MasterMind825/ArduinoJammer433mhz/main/Screenshot%202025-06-04%20at%2016.13.09.png)
 
