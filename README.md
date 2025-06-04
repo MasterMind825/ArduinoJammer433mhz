@@ -34,3 +34,30 @@ Optional: 10µF capacitor between VCC and GND
 | CSN (SS)   | D10                    |
 | GDO2       | D12                    |
 
+
+
+## 🚀 Getting Started
+
+### 🧰 Hardware Requirements
+- Arduino UNO or Nano (or any compatible board)
+- **CC1101 433 MHz transceiver module**
+- Breadboard and jumper wires
+- Capacitor (10 µF) to stabilize power (optional but recommended)
+
+---
+
+### 💻 Software Requirements
+- [Arduino IDE](https://www.arduino.cc/en/software)
+- **ELECHOUSE_CC1101** library  
+  → [ELECHOUSE/CC1101_SRC_DRV](https://github.com/ELECHOUSE/CC1101)
+
+---
+
+### 🛠 Installation Steps
+
+1. **Connect the CC1101 module to your Arduino** using the wiring diagram provided.
+2. **Install the ELECHOUSE CC1101 library**:
+   - Open the **Arduino IDE**
+   - Go to **Sketch > Include Library > Manage Libraries...**
+   - Search for `"ELECHOUSE_CC1101"` and install **`ELECHOUSE_CC1101_SRC_DRV`** by ELECHOUSE
+
